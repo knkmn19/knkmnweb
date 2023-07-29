@@ -1,12 +1,19 @@
 img {
-    transition: transform 0.1s;
+    transition: transform 0.2;
 }
 
-@keyframes rota {
+@keyframes rotar {
     0% { transform: rotate(5deg); }
     100% { transform: rotate(0deg); }
 }
+@keyframes rotal {
+    0% { transform: rotate(-5deg); }
+    100% { transform: rotate(0deg); }
+}
 
-.clickR {
-    animation: rota 0.1s ease-out;
+.clickR.r {
+    animation: rotar 0.2s ease-out;
+}
+.clickR.l {
+    animation: rotal 0.2s ease-out;
 }
