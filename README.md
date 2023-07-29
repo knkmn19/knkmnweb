@@ -1,5 +1,5 @@
 # knkmnweb
 ### knkmnwebって何？
-knkmnwebはhtml実験場である。
+knkmnwebはサイト創作の実験場である。サイトにて、様々な実験を致します。
 ### なぜknkmnweb？
 ノーコメント。
