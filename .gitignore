@@ -35,7 +35,5 @@ secrets.json
 *.gif.meta
 *.bmp.meta
 *.svg.meta
-
-# Ignore compiled CSS or JavaScript files (if you're using a build process)
 styles.css
 app.js
