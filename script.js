@@ -44,7 +44,6 @@ function catteP() {
         let speedY = (Math.random() - 0.5) * 30;
         const gravity = 0.5;
         let lifeTime = 10000;
-        //       　　　 ↓lol
         function RenderStepped() {
             posX += speedX;
             posY += speedY;
