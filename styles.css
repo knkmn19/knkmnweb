@@ -8,3 +8,34 @@ body {
     font-size   : 16px;
     font-family : sans-serif;
 }
+
+.content {
+    margin      : 0 auto;
+    width       : 600px;
+    overflow-x  : visible;
+
+    padding-bottom : 360px;
+
+    padding-left   : 0em;
+    white-space    : normal;
+
+    text-align : left;
+}
+    .content header {
+        text-align : center;
+    }
+
+    .content ul {
+        list-style-type : none;
+    }
+        .content ul.indent1 {
+            padding-left: 1em;
+        }
+
+        .content ul.indent2 {
+            padding-left: 2em;
+        }
+
+    .content li.marked {
+        color : gold;
+    }
