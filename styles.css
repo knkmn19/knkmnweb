@@ -9,6 +9,15 @@ body {
     font-family : sans-serif;
 }
 
+.top-bar {
+    width  : 800px;
+    height : 4px;
+    margin : 8ex auto;
+
+    background-color : grey;
+    border           : none;
+}
+
 .content {
     margin      : 0 auto;
     width       : 600px;
